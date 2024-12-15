@@ -1,1 +1,1 @@
-# shoeweb-ecome
+# shoeweb-ecome html and css only
